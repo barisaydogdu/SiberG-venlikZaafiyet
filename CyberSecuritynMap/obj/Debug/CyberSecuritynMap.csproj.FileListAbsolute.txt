@@ -1,0 +1,7 @@
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\bin\Debug\CyberSecuritynMap.exe.config
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\bin\Debug\CyberSecuritynMap.exe
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\bin\Debug\CyberSecuritynMap.pdb
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\obj\Debug\CyberSecuritynMap.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\obj\Debug\CyberSecuritynMap.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\obj\Debug\CyberSecuritynMap.exe
+C:\Users\baris\source\repos\CyberSecuritynMap\CyberSecuritynMap\obj\Debug\CyberSecuritynMap.pdb
